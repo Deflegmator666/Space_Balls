@@ -10,10 +10,6 @@
   },
   "author": "IVAN_LAPIN",
   "license": "ISC",
-  "devDependencies": {
-    "electron": "^31.3.1",
-    "electron-packager": "^17.1.2"
-  },
   "dependencies": {
     "raylib": "^0.14.0"
   }
